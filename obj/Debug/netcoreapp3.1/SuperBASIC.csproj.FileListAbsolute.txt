@@ -1,0 +1,15 @@
+C:\Users\Administrateur\source\SuperBasicAlex\bin\Debug\netcoreapp3.1\Test.basic
+C:\Users\Administrateur\source\SuperBasicAlex\bin\Debug\netcoreapp3.1\SuperBASIC.exe
+C:\Users\Administrateur\source\SuperBasicAlex\bin\Debug\netcoreapp3.1\SuperBASIC.deps.json
+C:\Users\Administrateur\source\SuperBasicAlex\bin\Debug\netcoreapp3.1\SuperBASIC.runtimeconfig.json
+C:\Users\Administrateur\source\SuperBasicAlex\bin\Debug\netcoreapp3.1\SuperBASIC.runtimeconfig.dev.json
+C:\Users\Administrateur\source\SuperBasicAlex\bin\Debug\netcoreapp3.1\SuperBASIC.dll
+C:\Users\Administrateur\source\SuperBasicAlex\bin\Debug\netcoreapp3.1\SuperBASIC.pdb
+C:\Users\Administrateur\source\SuperBasicAlex\obj\Debug\netcoreapp3.1\SuperBASIC.csproj.AssemblyReference.cache
+C:\Users\Administrateur\source\SuperBasicAlex\obj\Debug\netcoreapp3.1\SuperBASIC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\source\SuperBasicAlex\obj\Debug\netcoreapp3.1\SuperBASIC.AssemblyInfoInputs.cache
+C:\Users\Administrateur\source\SuperBasicAlex\obj\Debug\netcoreapp3.1\SuperBASIC.AssemblyInfo.cs
+C:\Users\Administrateur\source\SuperBasicAlex\obj\Debug\netcoreapp3.1\SuperBASIC.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\source\SuperBasicAlex\obj\Debug\netcoreapp3.1\SuperBASIC.dll
+C:\Users\Administrateur\source\SuperBasicAlex\obj\Debug\netcoreapp3.1\SuperBASIC.pdb
+C:\Users\Administrateur\source\SuperBasicAlex\obj\Debug\netcoreapp3.1\SuperBASIC.genruntimeconfig.cache
